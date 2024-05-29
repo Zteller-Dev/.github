@@ -47,9 +47,9 @@
 
 | Description                          |                    Content                    |
 | ------------------------------------ | :-------------------------------------------: |
-| Documentation for developers         |     [View](https://docs.devprotocol.xyz)      |
-| Hands-on and how to use Dev Protocol |    [View](https://initto.devprotocol.xyz)     |
-| Dev Protocol Roadmap                 | [View](https://trello.com/b/oFu5uWJF/roadmap) |
+| Documentation for developers         |     [View](https://docs.zteller.com)      |
+| Hands-on and how to use Zteller      |    [View](https://initto.zteller.com)     |
+| Zteller Roadmap                      | [View](https://trello.com/b/zteller/roadmap) |
 
 <br>
 <br>
