@@ -1,13 +1,18 @@
 <!-- markdownlint-disable-next-line -->
 <p align="center"><a href="https://zteller.com/"><img src="https://github.com/Zteller-Dev/.github/assets/170336846/7a6a21fa-0e13-4ecc-8770-7fa38b989b51" width="20%"></a></p>
 
-<!--<p align="center">
-<a href="https://twitter.com/ztellerhq"><img src = "https://img.shields.io/twitter/follow/poweredbyZteller?style=social" width="17%" target="blank"></a>
-<a href="https://devprotocol.xyz/"><img src="https://custom-icon-badges.herokuapp.com/badge/Dev_Protocol_Website-black.svg?style=flat&logo=devprtcl" width="19%" target="blank"></a>
-<a href="https://medium.com/devprtcl"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" width="9.2%" target="blank"></a>
-<a href="https://stakes.social/"><img src="https://custom-icon-badges.herokuapp.com/badge/Stakes.social-black.svg?style=flat&logo=stakes.social" width="14%" target="blank"></a>
-<a href="https://discord.gg/VwJp4KM" alt="community-discord-server"><img src="https://img.shields.io/discord/547215761341546497?logo=discord&?style=flat&colorB=5865F2" target="blank" width="14%" /></a>
-</p>-->
+<p align="center">
+<img src="https://img.shields.io/github/stars/The-Young-Programmer/C-CPP-Programming-Project?logo=github">
+<img src="https://img.shields.io/github/issues/The-Young-Programmer/C-CPP-Programming-Project?logo=github">
+<img src="https://komarev.com/ghpvc/?username=C-CPP-Programming-Project&label=Visitors&color=0e75b6&style=flat"/> 
+<a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project/issues">
+<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
+</a>
+<a href="#"><img src="https://badge.fury.io/gh/tterb%2FHyde.svg"</a>
+<!--[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()-->  
+
+</p>
+
 <br>
 <br>
 <p><a href="https://zteller.com/" target="blank">Zteller</a> revolutionizes the way students manage their school fees by offering a seamless payment gateway tailored specifically for educational institutions. <br>With <strong>Zteller</strong>, students can conveniently settle their dues without the hassle of long queues at the bank. This innovative platform provides a secure and efficient solution, enabling payments to be made online from anywhere, at any time. <br>By streamlining the payment process, <strong>Zteller</strong> enhances the overall educational experience, empowering students to focus more on their studies and less on administrative tasks.</p>
