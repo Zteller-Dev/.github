@@ -28,14 +28,14 @@
 <table border="0" style="display:contents">
  <tr>
    <!-- Front End -->
-   <td width=500px><h2 align="center"><a href="https://github.com/zteller-dev/#####">Front End</a></h2><p align="center"><a href="https://github.com/dev-protocol/protocol/issues"><img src="https://img.shields.io/github/issues/dev-protocol/protocol"></a>&nbsp;<a href="https://github.com/dev-protocol/protocol/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/protocol"></a></p><p align="center">⛓ Smart contracts used by Ethereum mainnet and Ropsten testnet. This repository is the place to develop smart contracts for Dev Protocol.</p></td>
+   <td width=500px><h2 align="center"><a href="https://github.com/zteller-dev/front-end">Front End</a></h2><p align="center"><a href="https://github.com/zteller-dev/front-end/issues"><img src="https://img.shields.io/github/issues/dev-protocol/protocol"></a>&nbsp;<a href="https://github.com/zteller-dev/front-end/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/protocol"></a></p><p align="center">⛓ Smart Home Page used by Student. This repository is the place to develop an home page for Zteller.</p></td>
    <!-- Student Form -->
-   <td width=500px><h2 align="center"><a href="https://github.com/dev-protocol/protocol-v2">Student Form</a></h2><p align="center"><a href="https://github.com/dev-protocol/protocol-v2/issues"><img src="https://img.shields.io/github/issues/dev-protocol/protocol-v2"></a>&nbsp;<a href="https://github.com/dev-protocol/protocol-v2/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/protocol-v2"></a></p><p align="center">🗞️ Smart contracts for Optimistic Rollups.</p></td>
+   <td width=500px><h2 align="center"><a href="https://github.com/zteller-dev/student-form">Student Form</a></h2><p align="center"><a href="https://github.com/zteller-dev/student-form/issues"><img src="https://img.shields.io/github/issues/dev-protocol/protocol-v2"></a>&nbsp;<a href="https://github.com/zteller-dev/student-form/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/protocol-v2"></a></p><p align="center">🗞️ Smart student form, to get student input.</p></td>
  </tr>
   <tr></tr>
       <tr>
   <!-- Back End -->
-   <td width=500px><h2 align="center"><a href="https://github.com/dev-protocol/s-tokens">Back End</a></h2><p align="center"><a href="https://github.com/dev-protocol/s-tokens/issues"><img src="https://img.shields.io/github/issues/dev-protocol/s-tokens"></a>&nbsp;<a href="https://github.com/dev-protocol/s-tokens/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/s-tokens"></a></p><p align="center">💞 NFTs mirroring DEV staking.</p></td>
+   <td width=500px><h2 align="center"><a href="https://github.com/zteller-dev/back-end">Back End</a></h2><p align="center"><a href="https://github.com/zteller-dev/back-end/issues"><img src="https://img.shields.io/github/issues/dev-protocol/s-tokens"></a>&nbsp;<a href="https://github.com/zteller-dev/back-end/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/s-tokens"></a></p><p align="center">💞 Admin Dashboard to manage student.</p></td>
 </table>
 </details>
 
